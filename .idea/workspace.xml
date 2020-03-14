@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99fc0a95-fc42-4631-93a1-3c6c1515d1ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z3FAH3vlsDexRiQmiaNzhiHwmb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Angular Client" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99fc0a95-fc42-4631-93a1-3c6c1515d1ef" name="Default Changelist" comment="" />
+      <created>1584059725196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584059725196</updated>
+      <workItem from="1584109253048" duration="4807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="127" key="#Project_Structure" timestamp="1584109332637">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="339" y="127" key="#Project_Structure/38.23.1402.877@38.23.1402.877" timestamp="1584109332637" />
+    <state x="37" y="103" width="1402" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584116825822">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state x="37" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1403.877@37.23.1403.877" timestamp="1584116825822" />
+    <state x="38" y="103" width="1402" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/38.23.1402.877@38.23.1402.877" timestamp="1584111518354" />
+    <state x="201" y="103" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/39.23.1401.877@39.23.1401.877" timestamp="1584059864342" />
+    <state width="1161" height="217" key="GridCell.Tab.0.bottom" timestamp="1584116849814">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1161" height="217" key="GridCell.Tab.0.bottom/37.23.1403.877@37.23.1403.877" timestamp="1584116849814" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1584111520338" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1584111798579" />
+    <state width="1161" height="217" key="GridCell.Tab.0.center" timestamp="1584116849812">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1161" height="217" key="GridCell.Tab.0.center/37.23.1403.877@37.23.1403.877" timestamp="1584116849812" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1584111520336" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1584111798578" />
+    <state width="1161" height="217" key="GridCell.Tab.0.left" timestamp="1584116849811">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1161" height="217" key="GridCell.Tab.0.left/37.23.1403.877@37.23.1403.877" timestamp="1584116849811" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1584111520332" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1584111798578" />
+    <state width="1161" height="217" key="GridCell.Tab.0.right" timestamp="1584116849813">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1161" height="217" key="GridCell.Tab.0.right/37.23.1403.877@37.23.1403.877" timestamp="1584116849813" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1584111520338" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1584111798579" />
+    <state x="246" y="80" key="SettingsEditor" timestamp="1584060084345">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="246" y="80" key="SettingsEditor/39.23.1401.877@39.23.1401.877" timestamp="1584060084345" />
+  </component>
+</project>
